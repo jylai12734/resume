@@ -1,0 +1,195 @@
+@import url('https://fonts.googleapis.com/css2?family=Calligraffitti&family=Open+Sans&display=swap');
+
+body {
+  margin: 0
+}
+
+.resume {
+  height: 11in;
+  width: 8.5in;
+}
+
+.header {
+  height: 200px;
+  width: 8.5in;
+  display: flex;
+}
+
+.photo-container {
+  height: 200px;
+  width: 300px;
+  background-color: rgb(168, 235, 168);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.photo {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  border: solid;
+  border-width: 4px;
+}
+
+.name-container {
+  height: 200px;
+  width: 516px;
+  background-color: rgb(224, 224, 224);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.name-container-top {
+  margin-bottom: 15px;
+}
+
+.fancy {
+  color: #525252;
+  font-family: 'Times New Roman';
+  font-size: 16px;
+}
+
+.icons {
+  height: 25px;
+  width: 25px;
+}
+
+.icons-bash {
+  height: 22px;
+  width: 35px;
+}
+
+.icon-containers {
+  height: 40px;
+  width: 40px;
+  border: solid;
+  border-radius: 50%;
+  background-color: rgb(224, 224, 224);
+  border-width: 2px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header1 {
+  font-family: 'Calligraffitti';
+  font-size: 55px;
+  font-weight: bold;
+  color: black;
+}
+
+.header2 {
+  font-family: 'Calligraffitti';
+  font-size: 25px;
+  font-weight: bold;
+  color: #614925;
+}
+
+.info-strip {
+  height: 50px;
+  width: 8.5in;
+  background-color: rgb(141, 125, 82);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+
+.info-font {
+  color: aliceblue;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.detail-section {
+  height: 806px;
+  width: 8.5in;
+  display: flex;
+}
+
+.left-side {
+  height: 806px;
+  width: 300px;
+  background-color: rgb(168, 235, 168);
+  display: flex;
+  flex-direction: column;
+}
+
+.right-side {
+  height: 806px;
+  width: 516px;
+  background-color: rgb(224, 224, 224);
+}
+
+.section-header {
+  display: flex;
+  justify-content: center;
+}
+
+.section-content {
+  margin-top: -25px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.normal {
+  color: #525252;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 16px;
+}
+
+.language-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-left: -35px;
+  color: #525252;
+}
+
+.tool-list p {
+  margin: 5px 0px 0px 5px;
+}
+
+.course-list {
+  margin-left: -10px;
+}
+
+.first-paragraph {
+  margin-bottom: 0px;
+  margin-left: 10px;
+}
+
+.other-paragraph {
+  margin: 0px 0px 0px 10px;
+}
+
+.small {
+  color: #525252;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 14px;
+}
+
+.hobbies-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.each-hobby {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
