@@ -1,0 +1,17 @@
+Justin Lai
+16 Wood Glen Way
+Boonton, NJ, 07005
+jylai12734@gmail.com
+(862) 296-6223
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the Performance Software Engineer position, as advertised on Handshake.
+
+With a solid foundation in coding languages such as  C++, C, and ARM64 gained through relevant courses like algorithms, computer architecture, and operating systems, I am well-equipped to program with performance optimization in mind. Additionally, I have taken the courses 'Testing, QA, and Maintenance' and 'Software Development Process' where rigorous software testing and effective documenting were practiced. Lastly, I would consider myself an experienced gamer and can understand how important performance is to the gaming experience. As a Roblox player myself, I think I can add valuable insights into improving the game's performance. 
+
+Thank you for considering my application. I am eager to contribute to the success of Roblox and look forward for the opportunity for further discussions.
+
+Sincerely,
+
+Justin Lai
